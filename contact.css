@@ -28,6 +28,7 @@ html
     font-size: 62.5%;
     overflow-x: hidden;
     scroll-padding-top: 6rem; 
+    scroll-behavior: smooth;
 }
 
 /* header starts */
